@@ -14,13 +14,13 @@
   • <a href="#key-features">Key Features</a>
 </p>
 
-<p align="center">Main Page</a></p>
+<p align="center">Main Page</p>
 ![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png)
 
-<p align="center">Login Page</a></p>
+<p align="center">Login Page</p>
 ![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/2.png)
 
-<p align="center">Dashboard</a></p>
+<p align="center">Dashboard</p>
 ![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/3.png)
 
 ## Key Features
