@@ -10,18 +10,18 @@
 
 <h4 align="center">An application with musical power!</h4>
 
-<p align="center">
+<p align="left">
   • <a href="#key-features">Key Features</a>
 </p>
 
 <p align="center">Main Page</p>
-![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png)
+<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png?raw=true"></a>
 
 <p align="center">Login Page</p>
-![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/2.png)
+<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png?raw=true"></a>
 
 <p align="center">Dashboard</p>
-![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/3.png)
+<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png?raw=true"></a>
 
 ## Key Features
 
