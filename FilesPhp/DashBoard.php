@@ -8,9 +8,9 @@
         <meta charset="UTF-8">
         <title>FireFly Admin</title>
 
-        <link rel="stylesheet" href="/FireFly/Resources/CSSFiles/StyleAdmin.css">
-        <link rel="stylesheet" href="/FireFly/Resources/CSSFiles/name.css">
-        <link rel="stylesheet" href="/FireFly/Resources/CSSFiles/StyleProfile.css">
+        <link rel="stylesheet" href="../Resources/CSSFiles/StyleAdmin.css">
+        <link rel="stylesheet" href="../Resources/CSSFiles/name.css">
+        <link rel="stylesheet" href="../Resources/CSSFiles/StyleProfile.css">
     </head>
     <body>
         
@@ -32,29 +32,29 @@
 
         <div class="sidebar">
             <div class="sidebar-Brand">
-                <img class="sidebar-BrandLogo" src="/FireFly/Resources/Images/whiteLogo.png">
+                <img class="sidebar-BrandLogo" src="../Resources/Images/whiteLogo.png">
             </div>
 
             <div class="sidebar-menu">
                 <ul>
                     <li>
-                        <a class="active" href="/FireFly/FilesPhp/DashBoard.php"><span class="las-Dash"></span>
+                        <a class="active" href="DashBoard.php"><span class="las-Dash"></span>
                         <span>Main</span></a>
                     </li>
                     <li>
-                        <a href="/FireFly/FilesPhp/ProfileUser.php"><span class="las-User"></span>
+                        <a href="ProfileUser.php"><span class="las-User"></span>
                         <span>Profile</span></a>
                     </li>
                     <li>
-                        <a href="/FireFly/FilesPhp/Albums.php"><span class="las-Admin"></span>
+                        <a href="Albums.php"><span class="las-Admin"></span>
                         <span>Albums</span></a>
                     </li>
                     <li>
-                        <a href="/FireFly/FilesPhp/Tracks.php"><span class="las-Admin"></span>
+                        <a href="Tracks.php"><span class="las-Admin"></span>
                         <span>Tracks</span></a>
                     </li>
                 </ul>
-                <a class="cta" href="/FireFly/FilesPhp/Login.php"><button class="btnL">LogOut</button></a>
+                <a class="cta" href="Login.php"><button class="btnL">LogOut</button></a>
                 <small class="SUB">FIREFLY@2022</small>
             </div>
         </div>

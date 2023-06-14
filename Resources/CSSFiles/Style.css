@@ -250,9 +250,9 @@ div .dot{
     animation: animate 10s linear infinite;
 }
 .wrapper div:nth-child(11){
-    top: 10%;
+    top: 20%;
     left: 90%;
-    animation: animate 9s linear infinite;
+    animation: animate 7s linear infinite;
 }
 .wrapper div:nth-child(12){
     top: 20%;
