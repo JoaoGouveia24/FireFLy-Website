@@ -12,11 +12,16 @@
 
 <p align="center">
   • <a href="#key-features">Key Features</a>
-  • <a href="#Dependencies">Dependencies</a> 
-
 </p>
 
-![screenshot](https://github.com/JoaoGouveia24/FireFly-Music/blob/main/src/main/resources/images/MainTittle.png)
+<p align="center">Main Page</a></p>
+![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png)
+
+<p align="center">Login Page</a></p>
+![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/2.png)
+
+<p align="center">Dashboard</a></p>
+![screenshot](https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/3.png)
 
 ## Key Features
 
