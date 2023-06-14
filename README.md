@@ -14,14 +14,14 @@
   • <a href="#key-features">Key Features</a>
 </p>
 
-<p align="center">Main Page</p>
+<p align="left"> - Main Page</p>
 <a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png?raw=true"></a>
 
-<p align="center">Login Page</p>
-<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png?raw=true"></a>
+<p align="left"> - Login Page</p>
+<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/2.png?raw=true"></a>
 
-<p align="center">Dashboard</p>
-<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/1.png?raw=true"></a>
+<p align="left"> - Dashboard</p>
+<a href="Link"><img src="https://github.com/JoaoGouveia24/FireFLy-Website/blob/main/ReadMeImg/3.png?raw=true"></a>
 
 ## Key Features
 
